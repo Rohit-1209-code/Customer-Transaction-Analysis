@@ -1,4 +1,4 @@
--- Customer Transaction Analysis
+-- customer_transaction_analysis.sql
 -- Business question: Who are our high-value, recurring customers, and how
 -- can transaction activity be summarized for business reporting?
 
